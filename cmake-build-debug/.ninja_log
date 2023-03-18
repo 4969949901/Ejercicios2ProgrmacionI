@@ -1,0 +1,19 @@
+# ninja log v5
+0	863	7008568786238147	CMakeFiles/Ejercicio2.dir/main.cpp.obj	4ce621020ec8a65d
+40	883	7008568786461822	CMakeFiles/Ejercicio2.dir/ManejoDeArchivos.cpp.obj	c4e3e172a67ba13a
+884	1144	7008568788986412	Ejercicio2.exe	808cf4fb89514b6
+6	681	7008569506445757	CMakeFiles/Ejercicio2.dir/ManejoDeArchivos.cpp.obj	c4e3e172a67ba13a
+682	926	7008569508794465	Ejercicio2.exe	808cf4fb89514b6
+4	997	7008590475286502	CMakeFiles/Ejercicio2.dir/main.cpp.obj	4ce621020ec8a65d
+40	1187	7008590477173128	CMakeFiles/Ejercicio2.dir/ManejoDeArchivos.cpp.obj	c4e3e172a67ba13a
+1188	1465	7008590479872135	Ejercicio2.exe	808cf4fb89514b6
+7	1203	7008593373186004	CMakeFiles/Ejercicio2.dir/ManejoDeArchivos.cpp.obj	c4e3e172a67ba13a
+1205	1539	7008593376390175	Ejercicio2.exe	808cf4fb89514b6
+5	860	7008598561282271	CMakeFiles/Ejercicio2.dir/ManejoDeArchivos.cpp.obj	c4e3e172a67ba13a
+862	1127	7008598563896687	Ejercicio2.exe	808cf4fb89514b6
+5	641	7008600141546779	CMakeFiles/Ejercicio2.dir/ManejoDeArchivos.cpp.obj	c4e3e172a67ba13a
+642	855	7008600143557172	Ejercicio2.exe	808cf4fb89514b6
+4	669	7008604173901207	CMakeFiles/Ejercicio2.dir/ManejoDeArchivos.cpp.obj	c4e3e172a67ba13a
+670	997	7008604177030138	Ejercicio2.exe	808cf4fb89514b6
+3	681	7008607253077780	CMakeFiles/Ejercicio2.dir/ManejoDeArchivos.cpp.obj	c4e3e172a67ba13a
+682	910	7008607255238509	Ejercicio2.exe	808cf4fb89514b6
